@@ -1,5 +1,11 @@
-PdfTeXLite
+# PdfTeXLite
 
 A super tiny and self-contained version of PdfTeXLite. 
 
+## Quick Introduction
 PdfTeXLite downloads all necessary pacakges files on the fly. So no more tedious installation process.
+
+## Building
+Type make in Cygwin, provided that you install gcc, libcurl, libpng, libz.
+
+
