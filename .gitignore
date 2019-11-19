@@ -1,0 +1,7 @@
+*.o
+*.aux
+*.fmt
+*.log
+*.oo
+setup.sh
+pdftexlite
