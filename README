@@ -1,0 +1,5 @@
+PdfTeXLite
+
+A super tiny and self-contained version of PdfTeXLite. 
+
+PdfTeXLite downloads all necessary pacakges files on the fly. So no more tedious installation process.
